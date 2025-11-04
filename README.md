@@ -3,7 +3,7 @@
 
 
 <!-- ✨ Greetings -->
-<h1 align="center">Hi 👋, I'm </h1>
+<h1 align="center">Hi 👋, I'm sakshi jangam </h1>
 <h3 align="center">🚀 A Passionate Software Engineer | BCA 2nd Year Student | India 🇮🇳</h3>
 
 <p align="center">
